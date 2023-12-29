@@ -29,6 +29,13 @@
 ## NOTE
 In the repository I included the development.env file
 
+## Requirements
+
+Before you begin, make sure you have Node.js and Nest.js installed on your machine.
+
+- [Node.js](https://nodejs.org/)
+- [Nest.js](https://nestjs.com/)
+
 ## Installation
 
 ```bash
